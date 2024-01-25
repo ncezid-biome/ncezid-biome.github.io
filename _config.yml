@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: NCEZID-BIOME
-email: your-email@example.com
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
   This is a placeholder for the NCEZID-BIOME group at CDC
 baseurl: "/" # the subpath of your site, e.g. /blog
