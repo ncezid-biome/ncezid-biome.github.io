@@ -1,1 +1,0 @@
-# ncezid-biome.github.io
